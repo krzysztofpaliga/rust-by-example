@@ -31,9 +31,9 @@ impl Rectangle {
         width * height
     }
 
-    fn square(&self, Point {x: px, y: py}: Point, side: f32) -> Rectangle {
+    fn square(&self, top_left @ Point {x: px, y: py}: Point, side: f32) -> Rectangle {
         Rectangle {
-            top_left: Point { x: px, y: py },
+            top_left,
             bottom_right: Point { x: px - side, y: py + side },
         }
     }
