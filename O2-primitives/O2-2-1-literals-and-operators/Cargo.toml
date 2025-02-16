@@ -1,0 +1,6 @@
+[package]
+name = "O2-2-1-literals-and-operators"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
