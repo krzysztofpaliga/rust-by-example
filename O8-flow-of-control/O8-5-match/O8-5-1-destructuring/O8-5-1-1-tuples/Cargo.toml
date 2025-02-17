@@ -1,0 +1,6 @@
+[package]
+name = "O8-5-1-1-tuples"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

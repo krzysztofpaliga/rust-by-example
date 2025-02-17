@@ -1,0 +1,6 @@
+[package]
+name = "O8-2-1-nesting-and-labels"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]

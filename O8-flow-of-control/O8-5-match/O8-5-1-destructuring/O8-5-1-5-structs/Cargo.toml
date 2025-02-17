@@ -1,0 +1,6 @@
+[package]
+name = "O8-5-1-5-structs"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
