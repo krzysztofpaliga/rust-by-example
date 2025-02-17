@@ -1,0 +1,6 @@
+[package]
+name = "O9-2-6-examples-in-std"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
